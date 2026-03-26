@@ -1,0 +1,4 @@
+11/11/2021
+
+Changed sampleFq from 1000 to 500 to reduce the processing time
+Added dF/F thresholding based on the noise floor, and thresholding of convoluted spikes correspondingly
