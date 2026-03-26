@@ -8,7 +8,7 @@
 
 
 %%method 1 excludes neurons that go below baseline for 0.5s or more then cross baseline again during the delay
-%%method 2: excludes neurons that are active for less than 60% of the delay
+%%method 2: excludes neurons that are active for less than 75% of the delay
 %method 3: excludes neurons that go below baseline for 0.5s then cross
 %baseline during delay (meth 1) and neurons that are active for less than
 %50% of delay
